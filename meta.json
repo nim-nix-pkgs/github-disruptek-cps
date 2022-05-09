@@ -6,7 +6,7 @@
   "tags": [],
   "url": "https://github.com/disruptek/cps",
   "refs": [
-    "fatal: unable to access 'https://github.com/disruptek/cps/': Could not resolve host: github.com",
+    "fatal: unable to access 'https://github.com/disruptek/cps/': Failed to connect to github.com port 443 after 128734 ms: Connection timed out",
     ""
   ],
   "heads": []
